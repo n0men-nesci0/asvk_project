@@ -1,0 +1,154 @@
+failure
+Number of iterations = 5000
+time: 0:00:01.040403
+failure
+Number of iterations = 5000
+time: 0:00:01.050427
+failure
+Number of iterations = 5000
+time: 0:00:01.063109
+failure
+Number of iterations = 5000
+time: 0:00:01.106689
+failure
+Number of iterations = 5000
+time: 0:00:01.060326
+failure
+Number of iterations = 5000
+time: 0:00:01.070127
+failure
+Number of iterations = 5000
+time: 0:00:01.298730
+failure
+Number of iterations = 5000
+time: 0:00:01.399182
+failure
+Number of iterations = 5000
+time: 0:00:01.171132
+failure
+Number of iterations = 5000
+time: 0:00:01.244016
+failure
+Number of iterations = 5000
+time: 0:00:01.374206
+failure
+Number of iterations = 5000
+time: 0:00:01.166436
+failure
+Number of iterations = 5000
+time: 0:00:01.070279
+failure
+Number of iterations = 5000
+time: 0:00:01.056961
+failure
+Number of iterations = 5000
+time: 0:00:01.072661
+failure
+Number of iterations = 5000
+time: 0:00:01.058298
+failure
+Number of iterations = 5000
+time: 0:00:01.083080
+failure
+Number of iterations = 5000
+time: 0:00:01.198319
+failure
+Number of iterations = 5000
+time: 0:00:01.239393
+failure
+Number of iterations = 5000
+time: 0:00:01.056130
+failure
+Number of iterations = 5000
+time: 0:00:01.069483
+failure
+Number of iterations = 5000
+time: 0:00:01.072173
+failure
+Number of iterations = 5000
+time: 0:00:01.312099
+failure
+Number of iterations = 5000
+time: 0:00:01.125080
+failure
+Number of iterations = 5000
+time: 0:00:01.044093
+success
+Number of iterations = 5000
+Solution: 11 7 7 0 11 3 8 13 1 8 1 5 14 12 7 1 13 12 10 6 3 4 7 13 4 13 10 11 2 3 3 3 9 6 13 11 15 5 10 7 11 9 9 9 12 1 12 11 8 12 4 10 0 11 15 14 0 8 6 0 5 13 3 7 4 13 9 10 7 12 2 14 12 5 15 2 4 4 3 0 12 2 2 7 7 11 6 13 6 12 7 1 15 4 13 4 1 9 13 7 12 5 10 0 5 6 5 12 12 15 7 1 9 4 3 15 6 11 11 7 5 13 5 4 5 15 8 8 7 9 2 1 5 4 0 9 5 15 2 4 7 10 0 6 9 12 5 3 3 2
+Network load = 16510
+time: 0:00:01.630743
+failure
+Number of iterations = 5000
+time: 0:00:01.157084
+failure
+Number of iterations = 5000
+time: 0:00:01.118084
+failure
+Number of iterations = 5000
+time: 0:00:01.070080
+failure
+Number of iterations = 5000
+time: 0:00:01.062078
+failure
+Number of iterations = 5000
+time: 0:00:01.092081
+failure
+Number of iterations = 5000
+time: 0:00:01.082082
+failure
+Number of iterations = 5000
+time: 0:00:01.080086
+failure
+Number of iterations = 5000
+time: 0:00:01.186461
+success
+Number of iterations = 5000
+Solution: 4 0 4 1 4 14 13 9 1 12 8 9 12 6 0 15 7 1 0 2 5 4 2 11 3 1 11 8 5 4 7 0 15 9 12 6 14 12 2 2 8 12 7 15 5 8 15 7 12 0 15 4 2 7 3 9 1 1 13 3 4 1 2 15 12 3 13 1 5 15 10 8 9 11 11 1 4 5 0 8 6 4 8 13 10 0 7 2 13 15 6 11 6 11 5 5 7 7 9 7 13 9 3 0 2 13 2 6 5 6 5 10 12 10 14 11 10 8 6 13 3 13 2 5 12 9 8 5 6 12 3 6 3 1 14 0 7 5 6 0 4 13 15 13 6 0 14 14 15 5
+Network load = 16230
+time: 0:00:01.803133
+failure
+Number of iterations = 5000
+time: 0:00:01.135240
+failure
+Number of iterations = 5000
+time: 0:00:01.274031
+failure
+Number of iterations = 5000
+time: 0:00:01.228099
+failure
+Number of iterations = 5000
+time: 0:00:01.151931
+failure
+Number of iterations = 5000
+time: 0:00:01.215241
+failure
+Number of iterations = 5000
+time: 0:00:01.157077
+failure
+Number of iterations = 5000
+time: 0:00:01.151087
+failure
+Number of iterations = 5000
+time: 0:00:01.125085
+failure
+Number of iterations = 5000
+time: 0:00:01.148537
+failure
+Number of iterations = 5000
+time: 0:00:01.150086
+failure
+Number of iterations = 5000
+time: 0:00:01.165281
+failure
+Number of iterations = 5000
+time: 0:00:01.118083
+failure
+Number of iterations = 5000
+time: 0:00:01.196095
+failure
+Number of iterations = 5000
+time: 0:00:01.131377
+failure
+Number of iterations = 5000
+time: 0:00:01.120082

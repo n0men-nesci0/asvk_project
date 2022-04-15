@@ -1,0 +1,506 @@
+<data>
+	<number_of_cpu>16</number_of_cpu>
+	<cpu_load_limit>
+		<cpu0>90</cpu0>
+		<cpu1>90</cpu1>
+		<cpu2>100</cpu2>
+		<cpu3>90</cpu3>
+		<cpu4>90</cpu4>
+		<cpu5>100</cpu5>
+		<cpu6>90</cpu6>
+		<cpu7>100</cpu7>
+		<cpu8>50</cpu8>
+		<cpu9>100</cpu9>
+		<cpu10>50</cpu10>
+		<cpu11>70</cpu11>
+		<cpu12>100</cpu12>
+		<cpu13>90</cpu13>
+		<cpu14>50</cpu14>
+		<cpu15>100</cpu15>
+	</cpu_load_limit>
+	<number_of_programms>160</number_of_programms>
+	<programm_load>
+		<prog0>5</prog0>
+		<prog1>5</prog1>
+		<prog2>5</prog2>
+		<prog3>5</prog3>
+		<prog4>10</prog4>
+		<prog5>20</prog5>
+		<prog6>5</prog6>
+		<prog7>5</prog7>
+		<prog8>10</prog8>
+		<prog9>20</prog9>
+		<prog10>5</prog10>
+		<prog11>10</prog11>
+		<prog12>15</prog12>
+		<prog13>5</prog13>
+		<prog14>5</prog14>
+		<prog15>20</prog15>
+		<prog16>5</prog16>
+		<prog17>10</prog17>
+		<prog18>5</prog18>
+		<prog19>5</prog19>
+		<prog20>15</prog20>
+		<prog21>15</prog21>
+		<prog22>5</prog22>
+		<prog23>20</prog23>
+		<prog24>5</prog24>
+		<prog25>5</prog25>
+		<prog26>5</prog26>
+		<prog27>5</prog27>
+		<prog28>20</prog28>
+		<prog29>5</prog29>
+		<prog30>5</prog30>
+		<prog31>5</prog31>
+		<prog32>5</prog32>
+		<prog33>15</prog33>
+		<prog34>5</prog34>
+		<prog35>5</prog35>
+		<prog36>5</prog36>
+		<prog37>5</prog37>
+		<prog38>5</prog38>
+		<prog39>5</prog39>
+		<prog40>5</prog40>
+		<prog41>5</prog41>
+		<prog42>5</prog42>
+		<prog43>10</prog43>
+		<prog44>5</prog44>
+		<prog45>10</prog45>
+		<prog46>5</prog46>
+		<prog47>10</prog47>
+		<prog48>5</prog48>
+		<prog49>5</prog49>
+		<prog50>5</prog50>
+		<prog51>5</prog51>
+		<prog52>5</prog52>
+		<prog53>5</prog53>
+		<prog54>5</prog54>
+		<prog55>5</prog55>
+		<prog56>10</prog56>
+		<prog57>5</prog57>
+		<prog58>15</prog58>
+		<prog59>20</prog59>
+		<prog60>5</prog60>
+		<prog61>5</prog61>
+		<prog62>5</prog62>
+		<prog63>20</prog63>
+		<prog64>5</prog64>
+		<prog65>5</prog65>
+		<prog66>5</prog66>
+		<prog67>5</prog67>
+		<prog68>5</prog68>
+		<prog69>5</prog69>
+		<prog70>15</prog70>
+		<prog71>5</prog71>
+		<prog72>10</prog72>
+		<prog73>10</prog73>
+		<prog74>5</prog74>
+		<prog75>10</prog75>
+		<prog76>10</prog76>
+		<prog77>5</prog77>
+		<prog78>15</prog78>
+		<prog79>5</prog79>
+		<prog80>5</prog80>
+		<prog81>5</prog81>
+		<prog82>5</prog82>
+		<prog83>5</prog83>
+		<prog84>5</prog84>
+		<prog85>5</prog85>
+		<prog86>15</prog86>
+		<prog87>20</prog87>
+		<prog88>5</prog88>
+		<prog89>15</prog89>
+		<prog90>5</prog90>
+		<prog91>5</prog91>
+		<prog92>5</prog92>
+		<prog93>15</prog93>
+		<prog94>5</prog94>
+		<prog95>5</prog95>
+		<prog96>10</prog96>
+		<prog97>15</prog97>
+		<prog98>5</prog98>
+		<prog99>5</prog99>
+		<prog100>5</prog100>
+		<prog101>5</prog101>
+		<prog102>15</prog102>
+		<prog103>5</prog103>
+		<prog104>5</prog104>
+		<prog105>20</prog105>
+		<prog106>5</prog106>
+		<prog107>15</prog107>
+		<prog108>5</prog108>
+		<prog109>5</prog109>
+		<prog110>5</prog110>
+		<prog111>5</prog111>
+		<prog112>20</prog112>
+		<prog113>5</prog113>
+		<prog114>5</prog114>
+		<prog115>5</prog115>
+		<prog116>5</prog116>
+		<prog117>5</prog117>
+		<prog118>5</prog118>
+		<prog119>5</prog119>
+		<prog120>5</prog120>
+		<prog121>5</prog121>
+		<prog122>5</prog122>
+		<prog123>5</prog123>
+		<prog124>5</prog124>
+		<prog125>5</prog125>
+		<prog126>5</prog126>
+		<prog127>5</prog127>
+		<prog128>5</prog128>
+		<prog129>5</prog129>
+		<prog130>5</prog130>
+		<prog131>15</prog131>
+		<prog132>5</prog132>
+		<prog133>10</prog133>
+		<prog134>5</prog134>
+		<prog135>10</prog135>
+		<prog136>20</prog136>
+		<prog137>15</prog137>
+		<prog138>5</prog138>
+		<prog139>5</prog139>
+		<prog140>15</prog140>
+		<prog141>5</prog141>
+		<prog142>5</prog142>
+		<prog143>5</prog143>
+		<prog144>5</prog144>
+		<prog145>5</prog145>
+		<prog146>5</prog146>
+		<prog147>10</prog147>
+		<prog148>5</prog148>
+		<prog149>5</prog149>
+		<prog150>10</prog150>
+		<prog151>5</prog151>
+		<prog152>15</prog152>
+		<prog153>20</prog153>
+		<prog154>5</prog154>
+		<prog155>15</prog155>
+		<prog156>5</prog156>
+		<prog157>5</prog157>
+		<prog158>5</prog158>
+		<prog159>5</prog159>
+	</programm_load>
+	<data_exchange>
+		<pair prog1="0" prog2="119" intensity="100"></pair>
+		<pair prog1="0" prog2="73" intensity="100"></pair>
+		<pair prog1="1" prog2="140" intensity="70"></pair>
+		<pair prog1="1" prog2="44" intensity="70"></pair>
+		<pair prog1="2" prog2="11" intensity="50"></pair>
+		<pair prog1="2" prog2="138" intensity="50"></pair>
+		<pair prog1="3" prog2="53" intensity="10"></pair>
+		<pair prog1="3" prog2="82" intensity="10"></pair>
+		<pair prog1="4" prog2="109" intensity="70"></pair>
+		<pair prog1="4" prog2="112" intensity="70"></pair>
+		<pair prog1="5" prog2="138" intensity="50"></pair>
+		<pair prog1="5" prog2="144" intensity="50"></pair>
+		<pair prog1="6" prog2="52" intensity="100"></pair>
+		<pair prog1="6" prog2="111" intensity="100"></pair>
+		<pair prog1="7" prog2="31" intensity="100"></pair>
+		<pair prog1="7" prog2="48" intensity="100"></pair>
+		<pair prog1="8" prog2="31" intensity="100"></pair>
+		<pair prog1="8" prog2="97" intensity="100"></pair>
+		<pair prog1="9" prog2="70" intensity="50"></pair>
+		<pair prog1="9" prog2="103" intensity="50"></pair>
+		<pair prog1="10" prog2="159" intensity="50"></pair>
+		<pair prog1="10" prog2="116" intensity="50"></pair>
+		<pair prog1="11" prog2="71" intensity="50"></pair>
+		<pair prog1="11" prog2="74" intensity="50"></pair>
+		<pair prog1="12" prog2="109" intensity="50"></pair>
+		<pair prog1="12" prog2="39" intensity="50"></pair>
+		<pair prog1="13" prog2="139" intensity="100"></pair>
+		<pair prog1="13" prog2="30" intensity="100"></pair>
+		<pair prog1="14" prog2="28" intensity="10"></pair>
+		<pair prog1="14" prog2="144" intensity="10"></pair>
+		<pair prog1="15" prog2="106" intensity="50"></pair>
+		<pair prog1="15" prog2="103" intensity="50"></pair>
+		<pair prog1="16" prog2="109" intensity="10"></pair>
+		<pair prog1="16" prog2="130" intensity="10"></pair>
+		<pair prog1="17" prog2="100" intensity="50"></pair>
+		<pair prog1="17" prog2="67" intensity="50"></pair>
+		<pair prog1="18" prog2="10" intensity="70"></pair>
+		<pair prog1="18" prog2="141" intensity="70"></pair>
+		<pair prog1="19" prog2="9" intensity="10"></pair>
+		<pair prog1="19" prog2="132" intensity="10"></pair>
+		<pair prog1="20" prog2="65" intensity="10"></pair>
+		<pair prog1="20" prog2="96" intensity="10"></pair>
+		<pair prog1="21" prog2="107" intensity="10"></pair>
+		<pair prog1="21" prog2="18" intensity="10"></pair>
+		<pair prog1="22" prog2="97" intensity="70"></pair>
+		<pair prog1="22" prog2="94" intensity="70"></pair>
+		<pair prog1="23" prog2="140" intensity="50"></pair>
+		<pair prog1="23" prog2="132" intensity="50"></pair>
+		<pair prog1="24" prog2="102" intensity="100"></pair>
+		<pair prog1="24" prog2="22" intensity="100"></pair>
+		<pair prog1="25" prog2="21" intensity="10"></pair>
+		<pair prog1="25" prog2="24" intensity="10"></pair>
+		<pair prog1="26" prog2="91" intensity="50"></pair>
+		<pair prog1="26" prog2="113" intensity="50"></pair>
+		<pair prog1="27" prog2="64" intensity="10"></pair>
+		<pair prog1="27" prog2="151" intensity="10"></pair>
+		<pair prog1="28" prog2="98" intensity="10"></pair>
+		<pair prog1="28" prog2="78" intensity="10"></pair>
+		<pair prog1="29" prog2="108" intensity="100"></pair>
+		<pair prog1="29" prog2="129" intensity="100"></pair>
+		<pair prog1="30" prog2="58" intensity="50"></pair>
+		<pair prog1="30" prog2="74" intensity="50"></pair>
+		<pair prog1="31" prog2="138" intensity="100"></pair>
+		<pair prog1="31" prog2="137" intensity="100"></pair>
+		<pair prog1="32" prog2="135" intensity="100"></pair>
+		<pair prog1="32" prog2="100" intensity="100"></pair>
+		<pair prog1="33" prog2="4" intensity="100"></pair>
+		<pair prog1="33" prog2="130" intensity="100"></pair>
+		<pair prog1="34" prog2="5" intensity="10"></pair>
+		<pair prog1="34" prog2="12" intensity="10"></pair>
+		<pair prog1="35" prog2="78" intensity="50"></pair>
+		<pair prog1="35" prog2="102" intensity="50"></pair>
+		<pair prog1="36" prog2="23" intensity="50"></pair>
+		<pair prog1="36" prog2="111" intensity="50"></pair>
+		<pair prog1="37" prog2="31" intensity="70"></pair>
+		<pair prog1="37" prog2="100" intensity="70"></pair>
+		<pair prog1="38" prog2="157" intensity="70"></pair>
+		<pair prog1="38" prog2="108" intensity="70"></pair>
+		<pair prog1="39" prog2="61" intensity="70"></pair>
+		<pair prog1="39" prog2="41" intensity="70"></pair>
+		<pair prog1="40" prog2="95" intensity="70"></pair>
+		<pair prog1="40" prog2="128" intensity="70"></pair>
+		<pair prog1="41" prog2="146" intensity="10"></pair>
+		<pair prog1="41" prog2="97" intensity="10"></pair>
+		<pair prog1="42" prog2="6" intensity="70"></pair>
+		<pair prog1="42" prog2="87" intensity="70"></pair>
+		<pair prog1="43" prog2="95" intensity="10"></pair>
+		<pair prog1="43" prog2="153" intensity="10"></pair>
+		<pair prog1="44" prog2="73" intensity="50"></pair>
+		<pair prog1="44" prog2="79" intensity="50"></pair>
+		<pair prog1="45" prog2="43" intensity="50"></pair>
+		<pair prog1="45" prog2="137" intensity="50"></pair>
+		<pair prog1="46" prog2="16" intensity="50"></pair>
+		<pair prog1="46" prog2="111" intensity="50"></pair>
+		<pair prog1="47" prog2="52" intensity="100"></pair>
+		<pair prog1="47" prog2="141" intensity="100"></pair>
+		<pair prog1="48" prog2="68" intensity="50"></pair>
+		<pair prog1="48" prog2="30" intensity="50"></pair>
+		<pair prog1="49" prog2="40" intensity="100"></pair>
+		<pair prog1="49" prog2="97" intensity="100"></pair>
+		<pair prog1="50" prog2="61" intensity="100"></pair>
+		<pair prog1="50" prog2="30" intensity="100"></pair>
+		<pair prog1="51" prog2="100" intensity="10"></pair>
+		<pair prog1="51" prog2="104" intensity="10"></pair>
+		<pair prog1="52" prog2="55" intensity="100"></pair>
+		<pair prog1="52" prog2="152" intensity="100"></pair>
+		<pair prog1="53" prog2="100" intensity="70"></pair>
+		<pair prog1="53" prog2="96" intensity="70"></pair>
+		<pair prog1="54" prog2="19" intensity="70"></pair>
+		<pair prog1="54" prog2="114" intensity="70"></pair>
+		<pair prog1="55" prog2="130" intensity="10"></pair>
+		<pair prog1="55" prog2="114" intensity="10"></pair>
+		<pair prog1="56" prog2="58" intensity="70"></pair>
+		<pair prog1="56" prog2="117" intensity="70"></pair>
+		<pair prog1="57" prog2="4" intensity="50"></pair>
+		<pair prog1="57" prog2="79" intensity="50"></pair>
+		<pair prog1="58" prog2="82" intensity="70"></pair>
+		<pair prog1="58" prog2="87" intensity="70"></pair>
+		<pair prog1="59" prog2="106" intensity="10"></pair>
+		<pair prog1="59" prog2="3" intensity="10"></pair>
+		<pair prog1="60" prog2="56" intensity="50"></pair>
+		<pair prog1="60" prog2="53" intensity="50"></pair>
+		<pair prog1="61" prog2="110" intensity="10"></pair>
+		<pair prog1="61" prog2="10" intensity="10"></pair>
+		<pair prog1="62" prog2="142" intensity="10"></pair>
+		<pair prog1="62" prog2="99" intensity="10"></pair>
+		<pair prog1="63" prog2="135" intensity="70"></pair>
+		<pair prog1="63" prog2="136" intensity="70"></pair>
+		<pair prog1="64" prog2="151" intensity="100"></pair>
+		<pair prog1="64" prog2="108" intensity="100"></pair>
+		<pair prog1="65" prog2="67" intensity="100"></pair>
+		<pair prog1="65" prog2="7" intensity="100"></pair>
+		<pair prog1="66" prog2="18" intensity="50"></pair>
+		<pair prog1="66" prog2="146" intensity="50"></pair>
+		<pair prog1="67" prog2="14" intensity="70"></pair>
+		<pair prog1="67" prog2="15" intensity="70"></pair>
+		<pair prog1="68" prog2="32" intensity="100"></pair>
+		<pair prog1="68" prog2="19" intensity="100"></pair>
+		<pair prog1="69" prog2="59" intensity="70"></pair>
+		<pair prog1="69" prog2="153" intensity="70"></pair>
+		<pair prog1="70" prog2="158" intensity="70"></pair>
+		<pair prog1="70" prog2="116" intensity="70"></pair>
+		<pair prog1="71" prog2="78" intensity="10"></pair>
+		<pair prog1="71" prog2="124" intensity="10"></pair>
+		<pair prog1="72" prog2="96" intensity="100"></pair>
+		<pair prog1="72" prog2="54" intensity="100"></pair>
+		<pair prog1="73" prog2="143" intensity="70"></pair>
+		<pair prog1="73" prog2="121" intensity="70"></pair>
+		<pair prog1="74" prog2="139" intensity="70"></pair>
+		<pair prog1="74" prog2="76" intensity="70"></pair>
+		<pair prog1="75" prog2="70" intensity="10"></pair>
+		<pair prog1="75" prog2="0" intensity="10"></pair>
+		<pair prog1="76" prog2="75" intensity="70"></pair>
+		<pair prog1="76" prog2="3" intensity="70"></pair>
+		<pair prog1="77" prog2="155" intensity="70"></pair>
+		<pair prog1="77" prog2="93" intensity="70"></pair>
+		<pair prog1="78" prog2="44" intensity="50"></pair>
+		<pair prog1="78" prog2="33" intensity="50"></pair>
+		<pair prog1="79" prog2="125" intensity="70"></pair>
+		<pair prog1="79" prog2="97" intensity="70"></pair>
+		<pair prog1="80" prog2="149" intensity="50"></pair>
+		<pair prog1="80" prog2="105" intensity="50"></pair>
+		<pair prog1="81" prog2="28" intensity="100"></pair>
+		<pair prog1="81" prog2="33" intensity="100"></pair>
+		<pair prog1="82" prog2="93" intensity="50"></pair>
+		<pair prog1="82" prog2="38" intensity="50"></pair>
+		<pair prog1="83" prog2="58" intensity="50"></pair>
+		<pair prog1="83" prog2="147" intensity="50"></pair>
+		<pair prog1="84" prog2="20" intensity="50"></pair>
+		<pair prog1="84" prog2="50" intensity="50"></pair>
+		<pair prog1="85" prog2="2" intensity="10"></pair>
+		<pair prog1="85" prog2="55" intensity="10"></pair>
+		<pair prog1="86" prog2="128" intensity="70"></pair>
+		<pair prog1="86" prog2="58" intensity="70"></pair>
+		<pair prog1="87" prog2="120" intensity="10"></pair>
+		<pair prog1="87" prog2="15" intensity="10"></pair>
+		<pair prog1="88" prog2="23" intensity="50"></pair>
+		<pair prog1="88" prog2="151" intensity="50"></pair>
+		<pair prog1="89" prog2="115" intensity="50"></pair>
+		<pair prog1="89" prog2="151" intensity="50"></pair>
+		<pair prog1="90" prog2="30" intensity="10"></pair>
+		<pair prog1="90" prog2="85" intensity="10"></pair>
+		<pair prog1="91" prog2="148" intensity="50"></pair>
+		<pair prog1="91" prog2="106" intensity="50"></pair>
+		<pair prog1="92" prog2="95" intensity="10"></pair>
+		<pair prog1="92" prog2="15" intensity="10"></pair>
+		<pair prog1="93" prog2="120" intensity="70"></pair>
+		<pair prog1="93" prog2="121" intensity="70"></pair>
+		<pair prog1="94" prog2="110" intensity="100"></pair>
+		<pair prog1="94" prog2="144" intensity="100"></pair>
+		<pair prog1="95" prog2="10" intensity="100"></pair>
+		<pair prog1="95" prog2="4" intensity="100"></pair>
+		<pair prog1="96" prog2="120" intensity="100"></pair>
+		<pair prog1="96" prog2="142" intensity="100"></pair>
+		<pair prog1="97" prog2="32" intensity="10"></pair>
+		<pair prog1="97" prog2="51" intensity="10"></pair>
+		<pair prog1="98" prog2="40" intensity="100"></pair>
+		<pair prog1="98" prog2="81" intensity="100"></pair>
+		<pair prog1="99" prog2="155" intensity="10"></pair>
+		<pair prog1="99" prog2="142" intensity="10"></pair>
+		<pair prog1="100" prog2="140" intensity="10"></pair>
+		<pair prog1="100" prog2="122" intensity="10"></pair>
+		<pair prog1="101" prog2="147" intensity="50"></pair>
+		<pair prog1="101" prog2="57" intensity="50"></pair>
+		<pair prog1="102" prog2="100" intensity="70"></pair>
+		<pair prog1="102" prog2="95" intensity="70"></pair>
+		<pair prog1="103" prog2="109" intensity="100"></pair>
+		<pair prog1="103" prog2="11" intensity="100"></pair>
+		<pair prog1="104" prog2="77" intensity="10"></pair>
+		<pair prog1="104" prog2="118" intensity="10"></pair>
+		<pair prog1="105" prog2="29" intensity="10"></pair>
+		<pair prog1="105" prog2="13" intensity="10"></pair>
+		<pair prog1="106" prog2="8" intensity="10"></pair>
+		<pair prog1="106" prog2="18" intensity="10"></pair>
+		<pair prog1="107" prog2="149" intensity="50"></pair>
+		<pair prog1="107" prog2="106" intensity="50"></pair>
+		<pair prog1="108" prog2="26" intensity="70"></pair>
+		<pair prog1="108" prog2="119" intensity="70"></pair>
+		<pair prog1="109" prog2="23" intensity="70"></pair>
+		<pair prog1="109" prog2="118" intensity="70"></pair>
+		<pair prog1="110" prog2="125" intensity="100"></pair>
+		<pair prog1="110" prog2="33" intensity="100"></pair>
+		<pair prog1="111" prog2="13" intensity="100"></pair>
+		<pair prog1="111" prog2="78" intensity="100"></pair>
+		<pair prog1="112" prog2="28" intensity="70"></pair>
+		<pair prog1="112" prog2="49" intensity="70"></pair>
+		<pair prog1="113" prog2="72" intensity="70"></pair>
+		<pair prog1="113" prog2="33" intensity="70"></pair>
+		<pair prog1="114" prog2="7" intensity="70"></pair>
+		<pair prog1="114" prog2="105" intensity="70"></pair>
+		<pair prog1="115" prog2="87" intensity="100"></pair>
+		<pair prog1="115" prog2="14" intensity="100"></pair>
+		<pair prog1="116" prog2="77" intensity="70"></pair>
+		<pair prog1="116" prog2="109" intensity="70"></pair>
+		<pair prog1="117" prog2="48" intensity="100"></pair>
+		<pair prog1="117" prog2="10" intensity="100"></pair>
+		<pair prog1="118" prog2="30" intensity="70"></pair>
+		<pair prog1="118" prog2="95" intensity="70"></pair>
+		<pair prog1="119" prog2="141" intensity="70"></pair>
+		<pair prog1="119" prog2="15" intensity="70"></pair>
+		<pair prog1="120" prog2="75" intensity="100"></pair>
+		<pair prog1="120" prog2="5" intensity="100"></pair>
+		<pair prog1="121" prog2="95" intensity="70"></pair>
+		<pair prog1="121" prog2="11" intensity="70"></pair>
+		<pair prog1="122" prog2="154" intensity="70"></pair>
+		<pair prog1="122" prog2="134" intensity="70"></pair>
+		<pair prog1="123" prog2="128" intensity="100"></pair>
+		<pair prog1="123" prog2="65" intensity="100"></pair>
+		<pair prog1="124" prog2="24" intensity="50"></pair>
+		<pair prog1="124" prog2="107" intensity="50"></pair>
+		<pair prog1="125" prog2="62" intensity="100"></pair>
+		<pair prog1="125" prog2="9" intensity="100"></pair>
+		<pair prog1="126" prog2="29" intensity="100"></pair>
+		<pair prog1="126" prog2="49" intensity="100"></pair>
+		<pair prog1="127" prog2="20" intensity="70"></pair>
+		<pair prog1="127" prog2="108" intensity="70"></pair>
+		<pair prog1="128" prog2="57" intensity="100"></pair>
+		<pair prog1="128" prog2="114" intensity="100"></pair>
+		<pair prog1="129" prog2="158" intensity="70"></pair>
+		<pair prog1="129" prog2="135" intensity="70"></pair>
+		<pair prog1="130" prog2="151" intensity="10"></pair>
+		<pair prog1="130" prog2="29" intensity="10"></pair>
+		<pair prog1="131" prog2="76" intensity="100"></pair>
+		<pair prog1="131" prog2="13" intensity="100"></pair>
+		<pair prog1="132" prog2="68" intensity="10"></pair>
+		<pair prog1="132" prog2="144" intensity="10"></pair>
+		<pair prog1="133" prog2="52" intensity="10"></pair>
+		<pair prog1="133" prog2="140" intensity="10"></pair>
+		<pair prog1="134" prog2="16" intensity="50"></pair>
+		<pair prog1="134" prog2="142" intensity="50"></pair>
+		<pair prog1="135" prog2="75" intensity="10"></pair>
+		<pair prog1="135" prog2="146" intensity="10"></pair>
+		<pair prog1="136" prog2="145" intensity="10"></pair>
+		<pair prog1="136" prog2="53" intensity="10"></pair>
+		<pair prog1="137" prog2="130" intensity="100"></pair>
+		<pair prog1="137" prog2="155" intensity="100"></pair>
+		<pair prog1="138" prog2="135" intensity="10"></pair>
+		<pair prog1="138" prog2="101" intensity="10"></pair>
+		<pair prog1="139" prog2="12" intensity="10"></pair>
+		<pair prog1="139" prog2="108" intensity="10"></pair>
+		<pair prog1="140" prog2="49" intensity="70"></pair>
+		<pair prog1="140" prog2="79" intensity="70"></pair>
+		<pair prog1="141" prog2="30" intensity="50"></pair>
+		<pair prog1="141" prog2="145" intensity="50"></pair>
+		<pair prog1="142" prog2="123" intensity="100"></pair>
+		<pair prog1="142" prog2="107" intensity="100"></pair>
+		<pair prog1="143" prog2="111" intensity="50"></pair>
+		<pair prog1="143" prog2="30" intensity="50"></pair>
+		<pair prog1="144" prog2="2" intensity="50"></pair>
+		<pair prog1="144" prog2="35" intensity="50"></pair>
+		<pair prog1="145" prog2="19" intensity="50"></pair>
+		<pair prog1="145" prog2="109" intensity="50"></pair>
+		<pair prog1="146" prog2="151" intensity="70"></pair>
+		<pair prog1="146" prog2="51" intensity="70"></pair>
+		<pair prog1="147" prog2="79" intensity="10"></pair>
+		<pair prog1="147" prog2="80" intensity="10"></pair>
+		<pair prog1="148" prog2="65" intensity="100"></pair>
+		<pair prog1="148" prog2="2" intensity="100"></pair>
+		<pair prog1="149" prog2="49" intensity="50"></pair>
+		<pair prog1="149" prog2="36" intensity="50"></pair>
+		<pair prog1="150" prog2="124" intensity="70"></pair>
+		<pair prog1="150" prog2="25" intensity="70"></pair>
+		<pair prog1="151" prog2="110" intensity="70"></pair>
+		<pair prog1="151" prog2="69" intensity="70"></pair>
+		<pair prog1="152" prog2="33" intensity="100"></pair>
+		<pair prog1="152" prog2="110" intensity="100"></pair>
+		<pair prog1="153" prog2="113" intensity="10"></pair>
+		<pair prog1="153" prog2="62" intensity="10"></pair>
+		<pair prog1="154" prog2="56" intensity="50"></pair>
+		<pair prog1="154" prog2="155" intensity="50"></pair>
+		<pair prog1="155" prog2="60" intensity="10"></pair>
+		<pair prog1="155" prog2="2" intensity="10"></pair>
+		<pair prog1="156" prog2="154" intensity="50"></pair>
+		<pair prog1="156" prog2="127" intensity="50"></pair>
+		<pair prog1="157" prog2="153" intensity="10"></pair>
+		<pair prog1="157" prog2="103" intensity="10"></pair>
+		<pair prog1="158" prog2="35" intensity="50"></pair>
+		<pair prog1="158" prog2="106" intensity="50"></pair>
+		<pair prog1="159" prog2="158" intensity="70"></pair>
+		<pair prog1="159" prog2="108" intensity="70"></pair>
+	</data_exchange>
+</data>
