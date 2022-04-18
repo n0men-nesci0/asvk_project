@@ -1,0 +1,94 @@
+<data>
+	<number_of_cpu>4</number_of_cpu>
+	<cpu_load_limit>
+		<cpu0>90</cpu0>
+		<cpu1>100</cpu1>
+		<cpu2>70</cpu2>
+		<cpu3>50</cpu3>
+	</cpu_load_limit>
+	<number_of_programms>40</number_of_programms>
+	<programm_load>
+		<prog0>20</prog0>
+		<prog1>20</prog1>
+		<prog2>20</prog2>
+		<prog3>15</prog3>
+		<prog4>15</prog4>
+		<prog5>15</prog5>
+		<prog6>10</prog6>
+		<prog7>10</prog7>
+		<prog8>10</prog8>
+		<prog9>5</prog9>
+		<prog10>5</prog10>
+		<prog11>5</prog11>
+		<prog12>5</prog12>
+		<prog13>5</prog13>
+		<prog14>5</prog14>
+		<prog15>5</prog15>
+		<prog16>5</prog16>
+		<prog17>5</prog17>
+		<prog18>5</prog18>
+		<prog19>5</prog19>
+		<prog20>5</prog20>
+		<prog21>5</prog21>
+		<prog22>5</prog22>
+		<prog23>5</prog23>
+		<prog24>5</prog24>
+		<prog25>5</prog25>
+		<prog26>5</prog26>
+		<prog27>5</prog27>
+		<prog28>5</prog28>
+		<prog29>5</prog29>
+		<prog30>5</prog30>
+		<prog31>5</prog31>
+		<prog32>5</prog32>
+		<prog33>5</prog33>
+		<prog34>5</prog34>
+		<prog35>5</prog35>
+		<prog36>5</prog36>
+		<prog37>5</prog37>
+		<prog38>5</prog38>
+		<prog39>5</prog39>
+	</programm_load>
+	<data_exchange>
+		<pair prog1="0" prog2="1" intensity="100"></pair>
+		<pair prog1="1" prog2="2" intensity="100"></pair>
+		<pair prog1="2" prog2="3" intensity="50"></pair>
+		<pair prog1="3" prog2="4" intensity="70"></pair>
+		<pair prog1="4" prog2="5" intensity="100"></pair>
+		<pair prog1="5" prog2="6" intensity="50"></pair>
+		<pair prog1="6" prog2="7" intensity="50"></pair>
+		<pair prog1="7" prog2="8" intensity="100"></pair>
+		<pair prog1="8" prog2="9" intensity="10"></pair>
+		<pair prog1="9" prog2="10" intensity="100"></pair>
+		<pair prog1="10" prog2="11" intensity="70"></pair>
+		<pair prog1="11" prog2="12" intensity="70"></pair>
+		<pair prog1="12" prog2="13" intensity="70"></pair>
+		<pair prog1="13" prog2="14" intensity="50"></pair>
+		<pair prog1="14" prog2="15" intensity="50"></pair>
+		<pair prog1="15" prog2="16" intensity="10"></pair>
+		<pair prog1="16" prog2="17" intensity="50"></pair>
+		<pair prog1="17" prog2="18" intensity="50"></pair>
+		<pair prog1="18" prog2="19" intensity="70"></pair>
+		<pair prog1="19" prog2="20" intensity="70"></pair>
+		<pair prog1="20" prog2="21" intensity="50"></pair>
+		<pair prog1="21" prog2="22" intensity="50"></pair>
+		<pair prog1="22" prog2="23" intensity="50"></pair>
+		<pair prog1="23" prog2="24" intensity="50"></pair>
+		<pair prog1="24" prog2="25" intensity="70"></pair>
+		<pair prog1="25" prog2="26" intensity="50"></pair>
+		<pair prog1="26" prog2="27" intensity="10"></pair>
+		<pair prog1="27" prog2="28" intensity="50"></pair>
+		<pair prog1="28" prog2="29" intensity="50"></pair>
+		<pair prog1="29" prog2="30" intensity="70"></pair>
+		<pair prog1="30" prog2="31" intensity="50"></pair>
+		<pair prog1="31" prog2="32" intensity="50"></pair>
+		<pair prog1="32" prog2="33" intensity="70"></pair>
+		<pair prog1="33" prog2="34" intensity="70"></pair>
+		<pair prog1="34" prog2="35" intensity="100"></pair>
+		<pair prog1="35" prog2="36" intensity="10"></pair>
+		<pair prog1="36" prog2="37" intensity="50"></pair>
+		<pair prog1="37" prog2="38" intensity="50"></pair>
+		<pair prog1="38" prog2="39" intensity="100"></pair>
+		<pair prog1="39" prog2="0" intensity="10"></pair>
+	</data_exchange>
+</data>
